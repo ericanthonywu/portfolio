@@ -1664,6 +1664,7 @@
        ========================================== */
     function initTypedEffect() {
         const roles = [
+            'AI-Native Engineer',
             'Senior Software Engineer',
             'Backend Architect',
             'System Designer',
